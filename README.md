@@ -19,5 +19,3 @@ Pour toute question ou proposition de collaboration :
 - 📧 **jbl.f07@gmail.com** — *adresse privilégiée*  
 - 🎓 jean-baptiste.lamy-floret@epitech.eu  
 
-### En quelques mots
-> « Écrire un code lisible, documenté et durable ; apprendre chaque jour et partager mon chemin. »
