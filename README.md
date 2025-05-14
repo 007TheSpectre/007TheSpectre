@@ -16,6 +16,6 @@
 
 ### Me contacter
 Pour toute question ou proposition de collaboration :  
-- 📧 **jbl.f07@gmail.com** — *adresse privilégiée*  
+- 📧 **jbl.f07@gmail.com** — *adresse à privilégiée*  
 - 🎓 jean-baptiste.lamy-floret@epitech.eu  
 
