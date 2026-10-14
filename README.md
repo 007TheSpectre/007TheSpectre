@@ -1,7 +1,7 @@
 <!-- README de profil GitHub -->
 <h1 align="center">Jean-Baptiste Lamy-Floret</h1>
 <p align="center">
-  Étudiant de&nbsp;1<sup>re</sup>&nbsp;année à <a href="https://www.epitech.eu" target="_blank">Epitech</a><br/>
+  Étudiant de&nbsp;2<sup>re</sup>&nbsp;année à <a href="https://www.epitech.eu" target="_blank">Epitech</a><br/>
   Passionné par l’ingénierie logicielle, le développement système et la qualité du code
 </p>
 
